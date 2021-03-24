@@ -1,4 +1,5 @@
 # Open Whats React
+![App Screenshot](images/screeshot.png)
 
 This project facilitate send message in the WhatsApp to a contact without the necessity to add the number to your contact lists
 
