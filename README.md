@@ -20,4 +20,4 @@ Many thanks to [Thiago Paiva](https://github.com/paiva-thiago/open-whats) that c
 
 ## License
 
-MIT License
+See [License](LICENSE) 
