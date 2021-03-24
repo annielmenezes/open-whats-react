@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/open-whats-react/static/css/main.d0292bce.chunk.css",
+    "main.js": "/open-whats-react/static/js/main.86ae02b5.chunk.js",
+    "main.js.map": "/open-whats-react/static/js/main.86ae02b5.chunk.js.map",
+    "runtime-main.js": "/open-whats-react/static/js/runtime-main.2a398393.js",
+    "runtime-main.js.map": "/open-whats-react/static/js/runtime-main.2a398393.js.map",
+    "static/js/2.de431897.chunk.js": "/open-whats-react/static/js/2.de431897.chunk.js",
+    "static/js/2.de431897.chunk.js.map": "/open-whats-react/static/js/2.de431897.chunk.js.map",
+    "static/js/3.7d0ddfa8.chunk.js": "/open-whats-react/static/js/3.7d0ddfa8.chunk.js",
+    "static/js/3.7d0ddfa8.chunk.js.map": "/open-whats-react/static/js/3.7d0ddfa8.chunk.js.map",
+    "index.html": "/open-whats-react/index.html",
+    "static/css/main.d0292bce.chunk.css.map": "/open-whats-react/static/css/main.d0292bce.chunk.css.map",
+    "static/js/2.de431897.chunk.js.LICENSE.txt": "/open-whats-react/static/js/2.de431897.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2a398393.js",
+    "static/js/2.de431897.chunk.js",
+    "static/css/main.d0292bce.chunk.css",
+    "static/js/main.86ae02b5.chunk.js"
+  ]
+}
